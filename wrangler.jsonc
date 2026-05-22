@@ -17,7 +17,7 @@
     "d1_databases": [
         {
             "binding": "DB",
-            "database_name": "navigation-db-local",
+            "database_name": "lwl520",
             "database_id": "7d4c2b1e-9c0f-40ee-82f5-880858af05bd"
         }
     ],
